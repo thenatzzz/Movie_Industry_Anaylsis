@@ -1,0 +1,55 @@
+'''################# Numerical data ######################################'''
+    # original 11 features# with budget,with day,month,year --->r2=0.35 ,budget=0.60,key_country_index=0.08
+    # list_features = ['budget','key_company_index','key_country_index','genres_index','key_director_index','avg_rating','runtime','day_of_year','year','month','day']
+
+    # 10 features--->r2=0.349 budget=0.55, runtime=0.123, genres_index=0.08
+    # list_features= ['day_of_year', 'runtime', 'avg_rating', 'budget','key_country_index', 'key_director_index', 'month','key_company_index', 'year', 'genres_index']
+
+    # 9 features--->r2=0.37 budget=0.65, runtime=0.11, key_company_index=0.06
+    # list_features =['day', 'month', 'runtime', 'key_director_index', 'key_company_index', 'key_country_index', 'avg_rating',  'day_of_year', 'budget']
+        ##        --->r2=0.416 budget=0.71 runtime=0.1 key_country_index=0.04
+    # list_features =['avg_rating', 'day', 'budget', 'day_of_year', 'key_director_index','key_company_index', 'year', 'key_country_index', 'runtime']
+
+    # 8 features--->r2=0.33 budget=0.65, genres_index=0.11
+    # list_features =['month', 'avg_rating', 'day', 'genres_index', 'budget','key_company_index', 'key_director_index', 'day_of_year']
+
+    # 7 features--->r2=0.34 budget=0.61, genres_index=0.14
+    # list_features =['runtime', 'avg_rating', 'key_director_index', 'key_country_index','genres_index', 'budget', 'day']
+
+    # 6 features--->r2=0.30, budget=0.62, genres_index=0.11
+    # list_features=['month', 'day_of_year', 'genres_index', 'day', 'budget','avg_rating']
+
+    # 5 features--->r2=0.36, budget=0.75, year=0.08
+    # list_features=['budget', 'day_of_year', 'year', 'key_company_index', 'key_country_index']
+        ##        --->r2=0.45, budget=0.65, runtime=0.139, genres_index=0.103, day=0.06
+    # list_features=['budget', 'genres_index', 'day', 'year', 'runtime']
+    ''' ####################################################################'''
+   
+
+
+    '''################# Binary data ######################################'''
+    # original 11 features# with budget,with day,month,year --->r2=0.33 ,budget=0.657,runtime=0.078
+    list_features = ['budget','key_company_index','key_country_index','genres_index','key_director_index','avg_rating','runtime','day_of_year','year','month','day']
+
+    # 10 features--->r2=0.40 budget=0.64, runtime=0.117, genres_index=0.08
+    # list_features= ['day_of_year', 'runtime', 'avg_rating', 'budget','key_country_index', 'key_director_index', 'month','key_company_index', 'year', 'genres_index']
+
+    # 9 features--->r2=0.34 budget=0.71, runtime=0.11, month=0.04
+    # list_features =['day', 'month', 'runtime', 'key_director_index', 'key_company_index', 'key_country_index', 'avg_rating',  'day_of_year', 'budget']
+        ##        --->r2=0.35 budget=0.71 year=0.097 runtime=0.06
+    # list_features =['avg_rating', 'day', 'budget', 'day_of_year', 'key_director_index','key_company_index', 'year', 'key_country_index', 'runtime']
+
+    # 8 features--->r2=0.37 budget=0.656, genres_index=0.09
+    # list_features =['month', 'avg_rating', 'day', 'genres_index', 'budget','key_company_index', 'key_director_index', 'day_of_year']
+
+    # 7 features--->r2=0.34 budget=0.635, genres_index=0.15, runtime=0.1
+    # list_features =['runtime', 'avg_rating', 'key_director_index', 'key_country_index','genres_index', 'budget', 'day']
+
+    # 6 features--->r2=0.30, budget=0.71, day_of_year=0.1,genres_index=0.08
+    # list_features=['month', 'day_of_year', 'genres_index', 'day', 'budget','avg_rating']
+
+    # 5 features--->r2=0.36, budget=0.77, day_of_year=0.11, year=0.087
+    # list_features=['budget', 'day_of_year', 'year', 'key_company_index', 'key_country_index']
+        ##        --->r2=0.38, budget=0.68, runtime=0.1, genres_index=0.09, year=0.076
+    # list_features=['budget', 'genres_index', 'day', 'year', 'runtime']
+    ''' ####################################################################'''
