@@ -10,10 +10,10 @@ The program is written in Pyspark and Python. The visualization tools we used is
 
 
 ### Program Requirement
-* [Pyspark]: This library provides us with tools to structure and analyse our data before training our model.
-* [PysparkML]: PysparkML is an open source Pyspark platform for machine learning containing tools and other resources for the development of ML applications.
+* [Pyspark](https://spark.apache.org/docs/latest/api/python/pyspark.html): This library provides us with tools to structure and analyse our data before training our model.
+* [PysparkML](https://spark.apache.org/docs/latest/ml-guide.html): PysparkML is an open source Pyspark platform for machine learning containing tools and other resources for the development of ML applications.
 * [Matplotlib](https://matplotlib.org/): This library is used to generate plots to analyse the performance of our model.
-* [Tableau]: Tableau is powerful visualization software that we are using.
+* [Tableau](https://www.tableau.com/): Tableau is a powerful visualization software that we are using.
 
 
 ### Datasets (Folder: Dataset)
