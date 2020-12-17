@@ -1,7 +1,7 @@
 # How to Make a Profitable Movie? A Tale of Movie Industry Analysis
 
-### CMPT-732 Programming for Big Data I (Simon Fraser University)
-### Group members:Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
+#### CMPT-732 Programming for Big Data I (Simon Fraser University)
+#### Group members: Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
 
 ### Goals
 The goal of this project is to find out what important features are contributing to a profitable movie. Our goal is to find, preprocess, analyze, and visualize many available movie datasets in order to find important features related to movie profitability.  
