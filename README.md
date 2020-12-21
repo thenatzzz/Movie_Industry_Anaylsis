@@ -45,4 +45,4 @@ ps. they are extracted from HTML format in UCI(https://archive.ics.uci.edu/ml/da
 * Index page path is ~Web/WebContent/index.html
 
 ### Plots (Folder: 732_docs_and_report)
-* 732 plots and report
+* Plots and report
