@@ -4,7 +4,7 @@
 #### Group members: Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
 
 ### Goals
-The goal of this project is to find out what important features are contributing to a profitable movie. Our goal is to find, preprocess, analyze, and visualize many available movie datasets in order to find important features related to movie profitability.  
+The goal of this project is to find out which important features are contributing to a profitable movie. Our goal is to find, preprocess, analyze, and visualize many available movie datasets in order to find important features related to movie profitability.  
 
 The program is written in Pyspark and Python. The visualization tools we used is Tableau.
 
