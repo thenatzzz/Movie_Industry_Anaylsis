@@ -1,4 +1,4 @@
-# How to Make a Profitable Movie? A Tale of Movie Industry Analysis
+# How to make a Profitable Movie? A Tale of Movie Industry Analysis
 
 #### CMPT-732 Programming for Big Data I (Simon Fraser University)
 #### Group members: Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
