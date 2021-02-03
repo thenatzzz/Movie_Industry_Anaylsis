@@ -6,7 +6,7 @@
 ### Goals
 The goal of this project is to find out which important features are contributing to a profitable movie. Our goal is to find, preprocess, analyze, and visualize many available movie datasets in order to find important features contributing to movie profitability.  
 
-The program is written in Pyspark and Python. The visualization tools we used is Tableau.
+The main program is written in Pyspark and Python. The visualization tools is Tableau.
 
 
 ### Program Requirement
